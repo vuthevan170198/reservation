@@ -1,0 +1,20 @@
+
+-thêm view stk thanh toán (Phúc) (OK)
+--use case for caption: nhóm tính năng nên là danh từ (Not done)
++ sửa category thành stock (Not done)
++ thêm category (name, đơn vị,nhà cung cấp, giá nhập)(thêm threshold cảnh báo khi bị thiếu hàng)(trong 1 tháng dùng hết bao nhiêu?)
++ nên thêm quản lý món ăn
++ quản lý user vào bàn nào (có cũng dc)
++ không có add bill ,update bill (của Payment)
+
+--use case manager 
++ add mã qr ,stk của nhà hàng 
+
+home page manager: thống kê doanh thu (Phúc)
+home page caption :thống kê món ăn, người ăn  
+home page staff:Thống kê việc...(Trung)
+
+home page cho user: 
++những món mới thêm
++best seller
++chương trình giảm giá
